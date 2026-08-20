@@ -1,6 +1,6 @@
 # BCH Software Inc. - Sprint 1: Interactive Kiosk
 # Track: Python Software Engineering
-
+# 8/20 
 def main():
     print("========================================")
     print("      BCH ENTERPRISE VISITOR KIOSK      ")
