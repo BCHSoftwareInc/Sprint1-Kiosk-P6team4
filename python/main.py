@@ -18,12 +18,11 @@ if __name__ == "__main__":
     main()
 
     def card():
-print ("------------------------------------------------------------")
-print ("Apex Vistor Check-In")
-print ("------------------------------------------------------------")
-print ("Name:")
-name = input("Name:")
-print (name
+#Print ------------------------------------------------------------
+#Print Apex Vistor Check-In
+#Print ------------------------------------------------------------
+#Print Name:()
+#Input a name
 #Store previous input in ()
 #Print Name:(Stored Input)
 #Print Organization:()
