@@ -1,0 +1,7 @@
+print ("What is your name?")
+name = input()
+print ("|----------------------|")
+print ("| ATTENDEE : " + name.ljust(10) + "|")
+print ("| ORG : " + name.ljust(10) + "|")
+print ("| EMAIL : " + name.ljust(10) + "|")
+print ("|  : " + name.ljust(10) + "|")
