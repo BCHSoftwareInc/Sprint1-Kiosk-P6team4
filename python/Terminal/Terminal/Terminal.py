@@ -1,3 +1,4 @@
+print ("Welcome to the ASCII")
 print ("What is your name?")
 name = input()
 print ("What is your organization?")
