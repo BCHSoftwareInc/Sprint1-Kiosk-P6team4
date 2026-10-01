@@ -1,10 +1,17 @@
 # BCH Software Inc. - Sprint 1: Interactive Kiosk
 # Track: Python Software Engineering
 <<<<<<< HEAD
+<<<<<<< HEAD
+# 8/20 
+=======
+# 8/20
+
+=======
 # 8/20
 
 =======
 # 8/20 
+>>>>>>> origin/main
 >>>>>>> origin/main
 def main():
     print("========================================")
